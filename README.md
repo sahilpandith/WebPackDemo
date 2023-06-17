@@ -10,8 +10,6 @@ npm install --save-dev csv-loader xml-loader/
 
 ///////
 
-npm install webpack webpack-cli --save-dev
-npm install --save-dev style-loader css-loader
-npm install --save-dev html-webpack-plugin
+npm install webpack webpack-cli style-loader css-loader html-webpack-plugin --save-dev 
 
 
